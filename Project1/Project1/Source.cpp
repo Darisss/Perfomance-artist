@@ -1,5 +1,6 @@
 #include <iostream>
 int main()
 {
-	std::cout << "DALBOEB?";
+	std::cout << "Daunich\n";
+}
 }
